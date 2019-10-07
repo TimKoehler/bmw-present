@@ -1,0 +1,12 @@
+name: bmw-present
+channels:
+  - defaults
+ dependencies:
+   - python=3.6
+   - numpy
+   - pandas
+   - scipy
+   - scikit-learn
+   - graphviz
+   - python-graphviz
+   - pydotplus
